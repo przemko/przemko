@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przemko&langs_count=8&hide=makefile,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przemko&langs_count=8&hide=makefile,css,roff)
 
 <!--
 **przemko/przemko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
